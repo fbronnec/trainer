@@ -1,0 +1,7 @@
+Hello World !
+
+Ceci est un fichier texte..
+Il contient plusieurs lignes.
+
+Il permet de tester les commandes bash.
+Je l'utilise pour m'entraîner.
